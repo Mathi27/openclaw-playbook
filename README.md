@@ -70,3 +70,5 @@ Have questions about hardware requirements, certification, security, costs, or h
 
 
 Happy Learning! 🦞
+
+Open for contribution ... 
