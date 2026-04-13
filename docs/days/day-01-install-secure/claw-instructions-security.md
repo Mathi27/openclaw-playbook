@@ -43,7 +43,7 @@ Check whether a firewall is active inside the container.
 
 **Expected:** No firewall tools found (no UFW, iptables, or nft). This is normal for Docker. Hostinger manages the firewall on the host. Mark this as EXPECTED.
 
-On a bare VPS, you would want a firewall active. Inside a managed Docker container, the host handles that layer.
+On a bare VPS, create a VPS, and run OpenClaw. would want a firewall active. Inside a managed Docker container, the host handles that layer.
 
 ---
 

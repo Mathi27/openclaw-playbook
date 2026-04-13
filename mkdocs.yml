@@ -1,0 +1,113 @@
+site_name: Learn Openclaw
+site_description: Learn to build OpenClaw agents step by step
+site_author: Mathi
+
+theme:
+  name: material
+  palette:
+    primary: black
+
+  features:
+    - navigation.instant
+    - navigation.expand
+    - navigation.tabs
+    - toc.follow
+    - header.autohide
+    - announce.dismiss
+    - navigation.footer
+    - content.code.copy
+    - content.code.annotate
+ 
+  logo: assets/openclaw-logo.png
+  favicon: assets/openclaw-logo.png
+
+
+  font:
+    text: Roboto
+copyright: "Learn Openclaw | KGiSL Educational Institutions | Curated By Mathi Yuvarajan "
+
+nav:
+  - Home: best-openclaw-resources.md
+  - OpenClaw:
+      - DAY 01 - Install & Secure:
+          - Build: days/day-01-install-secure/build.md
+          - Security: days/day-01-install-secure/claw-instructions-security.md
+          - Learn: days/day-01-install-secure/learn.md
+
+      - DAY 02 - Give it a Soul:
+          - Build: days/day-02-give-it-a-soul/build.md
+          - Agents: days/day-02-give-it-a-soul/claw-instructions-create-agents.md
+          - Memory: days/day-02-give-it-a-soul/claw-instructions-create-memory.md
+          - Soul: days/day-02-give-it-a-soul/claw-instructions-create-soul.md
+          - User: days/day-02-give-it-a-soul/claw-instructions-create-user.md
+          - Identity: days/day-02-give-it-a-soul/claw-instructions-finalize-identity.md
+          - Learn: days/day-02-give-it-a-soul/learn.md
+
+      - DAY 03 - Connect a Channel:
+          - Build: days/day-03-connect-a-channel/build.md
+          - Telegram: days/day-03-connect-a-channel/claw-instructions-connect-telegram.md
+          - Learn: days/day-03-connect-a-channel/learn.md
+
+      - DAY 04 - Make it Proactive:
+          - Build: days/day-04-make-it-proactive/build.md
+          - Cron: days/day-04-make-it-proactive/claw-instructions-create-daily-reflection-cron.md
+          - Learn: days/day-04-make-it-proactive/learn.md
+
+      - DAY 05 - Give it Skills:
+          - Build: days/day-05-give-it-skills/build.md
+          - Quick Note: days/day-05-give-it-skills/claw-instructions-create-quick-note-skill.md
+          - Finalize: days/day-05-give-it-skills/claw-instructions-finalize-skills.md
+          - Summary: days/day-05-give-it-skills/claw-instructions-install-document-summary.md
+          - Learn: days/day-05-give-it-skills/learn.md
+
+      - DAY 06 - Tame Your Inbox:
+          - Build: days/day-06-tame-your-inbox/build.md
+          - Email Triage: days/day-06-tame-your-inbox/claw-instructions-create-email-triage.md
+          - Finalize: days/day-06-tame-your-inbox/claw-instructions-finalize-inbox.md
+          - Setup Email: days/day-06-tame-your-inbox/claw-instructions-install-imap-smtp-email.md
+          - Learn: days/day-06-tame-your-inbox/learn.md
+
+      - DAY 07 - Make it Research:
+          - Build: days/day-07-make-it-research/build.md
+          - Web Search: days/day-07-make-it-research/claw-instructions-configure-web-search.md
+          - Research Brief: days/day-07-make-it-research/claw-instructions-create-research-brief.md
+          - Learn: days/day-07-make-it-research/learn.md
+
+      - DAY 08 - Let it Write:
+          - Build: days/day-08-let-it-write/build.md
+          - Email Config: days/day-08-let-it-write/claw-instructions-configure-outbound-email.md
+          - Follow-up: days/day-08-let-it-write/claw-instructions-create-follow-up-email.md
+          - Finalize: days/day-08-let-it-write/claw-instructions-finalize-outbound-email.md
+          - Learn: days/day-08-let-it-write/learn.md
+
+      - DAY 09 - Give it a Team:
+          - Build: days/day-09-give-it-a-team/build.md
+          - Writer Agent: days/day-09-give-it-a-team/claw-instructions-create-writer-agent.md
+          - Teamwork: days/day-09-give-it-a-team/claw-instructions-enable-teamwork.md
+          - Learn: days/day-09-give-it-a-team/learn.md
+
+      - DAY 10 - What Comes Next:
+          - Build: days/day-10-what-comes-next/build.md
+          - Verification: days/day-10-what-comes-next/claw-instructions-run-course-verification.md
+          - Learn: days/day-10-what-comes-next/learn.md
+
+  - Resources:
+      - FAQ: FAQ.md
+      - Agents: AGENTS.md
+      - Best Resources: best-openclaw-resources.md
+      - API Key: getting-your-api-key.md
+plugins:
+  - search
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  favicon: overrides/favicon.ico
+  generator: false
+  version:
+    provider: mike
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Mathi27/openclaw-playbook
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mathiyuvarajan

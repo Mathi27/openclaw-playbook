@@ -10,13 +10,6 @@ This is the build guide for Day 1. The first half walks you through deploying Op
 
 If you don't already have an API key for one of the LLMs, follow [this guide](../../getting-your-api-key.md) to get one.
 
-Click [here](https://levelup-labs.ai/HOSTINGER-OPENCLAW) and follow along the video below to create a Hostinger account, create a VPS, and run OpenClaw.
-
-[![Watch the video](https://img.youtube.com/vi/JXWmkPCcF7E/0.jpg)](https://youtu.be/JXWmkPCcF7E)
-
-
-Once you see a response on the chat window, your Claw is live. The rest of Day 1 happens through this web chat.
-
 ---
 
 ## Phase 2: Security Verification
