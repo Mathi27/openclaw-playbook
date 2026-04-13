@@ -1,5 +1,13 @@
-# 🦞 OpenClaw Mastery for Everyone
- 
+<p align="center">
+  <img src="diagrams/openclaw-logo.png" width="100" alt="Learn OpenClaw Logo" />
+</p>
+
+<h1 align="center">Learn OpenClaw</h1>
+
+<p align="center">
+  Build your personal AI assistant in 10 days.
+</p>
+
 You've probably seen OpenClaw all over the internet: on social media, YouTube, Reddit, tech blogs. Someone has it connected to their email, their calendar, their WhatsApp, with sub-agents running in parallel and automated workflows firing throughout the day. You follow along, set it all up in an afternoon, and hit your first bug. That bug leads to another. Three hours in, you are debugging a system you do not understand.
 
 This course fixes that.
