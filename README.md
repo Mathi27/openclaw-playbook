@@ -14,7 +14,7 @@ This course fixes that.
 
 - **10 days, one capability at a time.** No information overload. You add one thing each day and understand it before moving on.
 - **20 minutes per day.** Short enough to fit into a morning coffee or a lunch break.
-- **A fully working setup, no hardware required.** By the end, you'll have a personal AI assistant running 24/7 on a $20/month VPS and your favorite model provider like OpenAI, Anthropic, or Google. No separate laptop, no Mac mini, no dedicated hardware.
+- **A fully working setup, no hardware required.** By the end, you'll have a personal AI assistant running 24/7 on a INR 2.5K /month VPS and your favorite model provider like OpenAI, Anthropic, or Google. No separate laptop, no Mac mini, no dedicated hardware.
 - **Use OpenClaw to learn OpenClaw.** We've set up the course so that your Claw reads the course files and builds itself in the same order you learn the concepts. You'll understand as you navigate through the course.
 
 &nbsp;
