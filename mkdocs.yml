@@ -27,7 +27,7 @@ theme:
 copyright: "Learn Openclaw | KGiSL Educational Institutions | Curated By Mathi Yuvarjan & Aiswariya "
 
 nav:
-  - Home: best-openclaw-resources.md
+  - Home: index.md
   - OpenClaw:
       - DAY 01 - Install & Secure:
           - Build: days/day-01-install-secure/build.md
