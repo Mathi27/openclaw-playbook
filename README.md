@@ -18,7 +18,6 @@ This course fixes that.
 - **Use OpenClaw to learn OpenClaw.** We've set up the course so that your Claw reads the course files and builds itself in the same order you learn the concepts. You'll understand as you navigate through the course.
 
 &nbsp;
- 
 
 ## How It Works
 
@@ -77,6 +76,8 @@ Zero prior experience with servers, Docker, or AI agents required.
 Have questions about hardware requirements, certification, security, costs, or how the AI-first approach works? Check the [Frequently Asked Questions](FAQ.md).
 
 
-Happy Learning! 🦞
+
+
+Lead Student Contributor : Anish Karthic  | Happy Learning! 🦞
 
 Open for contribution | Fork Now | Star Now
