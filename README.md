@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="diagrams/openclaw-logo.png" width="100" alt="Learn OpenClaw Logo" />
+  <img src="diagrams/openclaw-logo.png" height="150" width="150" alt="Learn OpenClaw Logo" />
 </p>
 
 <h1 align="center">Learn OpenClaw</h1>
