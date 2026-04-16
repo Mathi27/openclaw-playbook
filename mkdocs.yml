@@ -90,6 +90,8 @@ nav:
           - Build: days/day-10-what-comes-next/build.md
           - Verification: days/day-10-what-comes-next/claw-instructions-run-course-verification.md
           - Learn: days/day-10-what-comes-next/learn.md
+      - Nemoclaw : 
+          - Learn : days/Nemoclaw/learn.md
 
   - Resources:
       - FAQ: FAQ.md
