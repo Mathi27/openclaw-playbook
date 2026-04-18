@@ -24,3 +24,17 @@ Nvidia says NemoClaw "installs NVIDIA OpenShell to enforce policy-based privacy 
 ## Architecture
 
 ![NemoClaw Architecture](/diagrams/image.png)
+
+NemoClaw has two main components: a TypeScript plugin that integrates with the OpenClaw CLI, and a Python blueprint that orchestrates OpenShell resources.
+
+### System Overview
+
+NVIDIA OpenShell is a general-purpose agent runtime. It provides sandbox containers, a credential-storing gateway, inference proxying, and policy enforcement, but has no opinions about what runs inside. 
+
+NemoClaw is an opinionated reference stack built on OpenShell that handles what goes in the sandbox and makes the setup accessible.
+
+### NemoClaw Plugin
+
+The plugin is a thin TypeScript package that registers an inference provider and the "/nemoclaw" slash command. It runs in-process with the OpenClaw gateway inside the sandbox.
+
+ 
