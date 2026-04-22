@@ -20,7 +20,7 @@ According to Nvidia, NemoClaw is "an open source stack that adds privacy and sec
 
 Nvidia says NemoClaw "installs NVIDIA OpenShell to enforce policy-based privacy and security guardrails, giving users control over how agents behave and handle data." Nvidia OpenShell is a brand new open source runtime from that company that enables AI agents to "operate and adapt faster and more safely."
 
-## ---  How to setup nemoclaw (currently working on it ) ---
+##  How to setup nemoclaw (currently working on it )
 ## Architecture
 
 ![NemoClaw Architecture](/diagrams/image.png)
