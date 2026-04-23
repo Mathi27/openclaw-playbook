@@ -5,6 +5,7 @@ NVIDIA NemoClaw is an open-source reference stack designed to simplify running O
 It installs the NVIDIA OpenShell runtime, which is part of the NVIDIA Agent Toolkit. This runtime provides enhanced security and control for executing autonomous agents.
 
 ## What is Nemoclaw
+
 Nvidia CEO Jensen Huang gave OpenClaw, the open-source AI agent recently acquired by OpenAI, big praise earlier this week at Nvidia's 2026 GTC conference.
 
 He said " Every company in the world today needs to have an OpenClaw strategy, an agentic system strategy," Huang said, comparing what OpenClaw will do for AI agents with what Windows did for PCs. "This is the new computer"
@@ -37,4 +38,7 @@ NemoClaw is an opinionated reference stack built on OpenShell that handles what 
 
 The plugin is a thin TypeScript package that registers an inference provider and the "/nemoclaw" slash command. It runs in-process with the OpenClaw gateway inside the sandbox.
 
- 
+## Features:
+- Run Claws More Safely
+- Use Any Coding Agent
+- Deploy Anywhere
