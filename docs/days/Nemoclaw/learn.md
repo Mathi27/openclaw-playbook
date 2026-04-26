@@ -42,3 +42,5 @@ The plugin is a thin TypeScript package that registers an inference provider and
 - Run Claws More Safely
 - Use Any Coding Agent
 - Deploy Anywhere
+
+## Author : Mathi
