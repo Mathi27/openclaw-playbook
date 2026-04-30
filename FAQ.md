@@ -51,5 +51,6 @@ Not recommended. Each day builds on the previous one. Day 3 requires the securit
 
 If you already have a running OpenClaw instance, you can skim the learn files for earlier days and focus on the builds for the days that cover what you have not set up yet.
 
+----
 
 [← Back to Course Overview](README.md)
